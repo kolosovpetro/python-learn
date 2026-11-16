@@ -1,0 +1,28 @@
+{
+  "fruits": [
+    "apple",
+    "orange",
+    "banana"
+  ],
+  "message": "Hello, Python!",
+  "age": 24,
+  "nested_obj": {
+    "array": [
+      "apple",
+      "orange",
+      "banana"
+    ],
+    "integers": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "user": {
+    "name": "John",
+    "surname": "Brzenk",
+    "age": "22"
+  }
+}
