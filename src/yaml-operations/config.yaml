@@ -1,0 +1,21 @@
+animals:
+- cat
+- dog
+- frog
+application:
+  environment: production
+  users:
+  - alex
+  - bob
+  - clara
+  id:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+year: 2026
+person:
+  name: Devon
+  surname: Larrat
+  age: 51
